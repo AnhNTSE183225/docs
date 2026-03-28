@@ -3,6 +3,7 @@ Hi REPO fans,
 Since we're playing R.E.P.O today,
 
 I will show you how to install the Multiplayer mod to get more than 6 players playing at a time
+
 P/S: It is specified that only the host is required to install the mod, but it should be safer when all of us have the mod
 
 
